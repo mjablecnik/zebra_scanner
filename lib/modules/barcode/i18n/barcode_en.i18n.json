@@ -1,0 +1,10 @@
+{
+  "scan": "Scan Barcode",
+  "alert": "Do you really want to leave and drop the scanned?",
+  "send_button": "Send Data to Server",
+  "select_type_title": "Select Scan Type:",
+  "long_text_alert": "Text is too long. \nMaximum number of characters is: {{maxAmount}}",
+  "send_error": "Codes failed during sending to server",
+  "send_success": "Codes have been sent to the server",
+  "note": "Note:"
+}

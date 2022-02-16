@@ -1,0 +1,3 @@
+const sentryDsn = 'https://<key>@sentry.io/<project>';
+const apiServer = "http://10.0.0.2:3000/dapi";
+const enableSendingLogs = false;

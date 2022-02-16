@@ -1,0 +1,10 @@
+{
+  "scan": "Načti čárový kód",
+  "alert": "Opravdu chceš odejít a zahodit nascanované?",
+  "send_button": "Odeslat data na server",
+  "select_type_title": "Vyber typ scanu:",
+  "long_text_alert": "Text je příliš dlouhý.\nMaximální počet znaků je: {{maxAmount}}",
+  "send_error": "Kódy se nepodařilo odeslat na server",
+  "send_success": "Kódy byly odeslány na server",
+  "note": "Poznámka:"
+}

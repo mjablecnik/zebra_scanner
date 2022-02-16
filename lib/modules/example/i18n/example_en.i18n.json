@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "custom_design": "Custom Design",
+    "handover": "Handover protocol"
+  },
+  "custom_design": {
+    "title": "Test title",
+    "content": "Test Content"
+  },
+  "handover": {
+    "title": "Handover Protocol",
+    "signature_title": "Signature",
+    "messages": {
+      "success": "Item successfully delivered"
+    },
+    "labels": {
+      "order_id": "Order ID",
+      "sender": "Sender",
+      "receiver": "Receiver",
+      "address": "Delivery Address",
+      "phone": "Phone",
+      "delivery_type": "Delivery Type",
+      "date": "Date of transmission",
+      "signature": "Signature"
+    },
+    "buttons": {
+      "save": "Save",
+      "sign": "Sign"
+    }
+  }
+}

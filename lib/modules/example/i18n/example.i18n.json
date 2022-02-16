@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "custom_design": "Vlastní design",
+    "handover": "Předávací protokol"
+  },
+  "custom_design": {
+    "title": "Testovací nadpis",
+    "content": "Testovací obsah"
+  },
+  "handover": {
+    "title": "Předávací protokol",
+    "signature_title": "Podpis",
+    "messages": {
+      "success": "Zboží bylo úspěšně předáno"
+    },
+    "labels": {
+      "order_id": "ID objednávky",
+      "sender": "Odesílatel",
+      "receiver": "Příjemce",
+      "address": "Adresa doručení",
+      "phone": "Telefon",
+      "delivery_type": "Typ doručení",
+      "date": "Datum předání",
+      "signature": "Podpis"
+    },
+    "buttons": {
+      "save": "Uložit",
+      "sign": "Podepsat"
+    }
+  }
+}

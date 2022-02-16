@@ -1,0 +1,22 @@
+{
+  "scan_code": {
+    "input_dialog_message": "Enter Code:",
+    "error": "Failed to get barcode",
+    "wrong": "Wrong barcode",
+    "cancel": "Cancel Scan",
+    "buttons": {
+      "input": "Enter manually",
+      "scan": "Scan"
+    }
+  },
+  "main_menu": {
+    "unknown": "No information",
+    "title": "Main Menu",
+    "logged_user": "Logged in user:",
+    "settings": "Settings",
+    "language": "Change Language",
+    "logs": "Show logs",
+    "version": "Application version:",
+    "serial_number": "Terminal serial number:"
+  }
+}

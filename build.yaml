@@ -1,0 +1,17 @@
+targets:
+  $default:
+    builders:
+      fast_i18n:
+        options:
+          base_locale: cs
+          translate_var: translate
+          key_case: camel
+          key_map_case: camel
+          param_case: camel
+          string_interpolation: double_braces
+          namespaces: true
+          output_format: multiple_files
+          output_file_name: strings.g.dart
+          output_directory: lib/core/i18n
+          maps:
+            - core.changeLanguage.languages

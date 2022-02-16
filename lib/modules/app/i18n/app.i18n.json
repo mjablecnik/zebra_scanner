@@ -1,0 +1,48 @@
+{
+  "title": "Zebra Scanner",
+  "info": {
+    "title": "Nastavení",
+    "unknown": "Žádné informace",
+    "connection": {
+      "title": "Připojení",
+      "type": "Typ spojení",
+      "address": "IP adresa",
+      "api_address": "Adresa API serveru (klikni pro změnu)",
+      "api_check": "Dostupnost API serveru (kontrola po 60 sekundách)",
+      "nothing": "Žádné spojení",
+      "not_connected": "Nepřipojeno",
+      "mobile_data": "Mobilní data",
+      "wifi": "Wifi"
+    },
+    "language": {
+      "title": "Jazyk",
+      "subtitle": "Jazykové nastavení aplikace"
+    }
+  },
+  "server": {
+    "change_address": "Změňte adresu serveru",
+    "address_saved": "Adresa byla změněna",
+    "check_connection": "Ověřování spojení"
+  },
+  "actions": {
+    "entrance": "Příjem",
+    "barcode_registration": "Registrace kódů",
+    "example": "Příklady",
+    "logout": "Odhlášení"
+  },
+  "alerts": {
+    "quit_app_question": "Opravdu chcete ukončit aplikaci?",
+    "server_connection": "S daným serverem nelze komunikovat"
+  },
+  "auth": {
+    "message": "Naskenuj kód karty pro přihlášení",
+    "input_dialog_message": "Zadejte kód:",
+    "register_dialog": {
+      "message": "Zařízení není registrované. Chcete poslat žádost o registraci?",
+      "confirm": "Ano",
+      "cancel": "Zrušit"
+    },
+    "register_device_success": "Žádost o registraci zařízení \nbyla úspěšně odeslána",
+    "register_device_error": "Žádost o registraci zařízení \nse nepodařilo odeslat"
+  }
+}

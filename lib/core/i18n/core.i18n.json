@@ -1,0 +1,38 @@
+{
+  "errors": {
+    "unexpected_error": "Nastala neočekávaná chyba",
+    "error": "ERROR",
+    "server": {
+      "connection": "@:core.errors.error: Nelze komunikovat se serverem",
+      "bad_request": "@:core.errors.error: Na server byl odeslán\nnesprávný požadavek",
+      "internal_error": "@:core.errors.error: Na serveru nastala\nneočekávaná chyba",
+      "not_found": "@:core.errors.error: Položka nebyla nalezena",
+      "permission_denied": "@:core.errors.error: Namáte dostatečná práva",
+      "unauthorized": "@:core.errors.error: Nejste přihlášen",
+      "unexpected": "@:core.errors.error: Server vrátil neočekávanou chybu"
+    }
+  },
+  "loading": "Zpracovávání...",
+  "buttons": {
+    "agree": "Potvrdit",
+    "go_back": "Jít zpět",
+    "back": "Zpět",
+    "menu": "Menu",
+    "finish": "Dokončit",
+    "yes": "Ano",
+    "no": "Ne",
+    "save": "Uložit",
+    "cancel": "Zrušit",
+    "close": "Zavřít"
+  },
+  "alerts": {
+    "wrong_number_input": "Zadaná hodnota musí být číslo"
+  },
+  "change_language": {
+    "title": "Vyber jazyk:",
+    "languages": {
+      "cs": "Čeština",
+      "en": "Angličtina"
+    }
+  }
+}

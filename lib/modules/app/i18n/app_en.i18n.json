@@ -1,0 +1,48 @@
+{
+  "title": "Zebra Scanner",
+  "info": {
+    "title": "Settings",
+    "unknown": "No information",
+    "connection": {
+      "title": "Connection",
+      "type": "Connection type",
+      "address": "IP address",
+      "api_address": "Server API Address (Click to Change)",
+      "api_check": "Server API Availability (Checks after 60 Seconds)",
+      "nothing": "No connection",
+      "not_connected": "Not Connected",
+      "mobile_data": "Mobile Data",
+      "wifi": "wifi"
+    },
+    "language": {
+      "title": "Language",
+      "subtitle": "Application language settings"
+    }
+  },
+  "server": {
+    "change_address": "Change server address",
+    "address_saved": "Address changed",
+    "check_connection": "Checking Connection"
+  },
+  "actions": {
+    "entrance": "Receipt",
+    "barcode_registration": "Code Registration",
+    "example": "Examples",
+    "logout": "Logout"
+  },
+  "alerts": {
+    "quit_app_question": "Are you sure you want to quit the application?",
+    "server_connection": "Unable to communicate with the given server"
+  },
+  "auth": {
+    "message": "Scan login card code",
+    "input_dialog_message": "Enter Code:",
+    "register_dialog": {
+      "message": "The device is not registered. Do you want to send a registration request?",
+      "confirm": "Yes",
+      "cancel": "Cancel"
+    },
+    "register_device_success": "Device registration request \nsuccessfully sent",
+    "register_device_error": "Device registration request \nwas not sent"
+  }
+}

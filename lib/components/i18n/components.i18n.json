@@ -1,0 +1,22 @@
+{
+  "scan_code": {
+    "input_dialog_message": "Zadejte kód:",
+    "error": "Nepodařilo se získat čárový kód",
+    "wrong": "Špatný čárový kód",
+    "cancel": "Zrušení skenování",
+    "buttons": {
+      "input": "Zadat ručně",
+      "scan": "Naskenovat"
+    }
+  },
+  "main_menu": {
+    "unknown": "Žádné informace",
+    "title": "Hlavní menu",
+    "logged_user": "Přihlášený uživatel:",
+    "settings": "Nastavení",
+    "language": "Změnit jazyk",
+    "logs": "Zobrazit logy",
+    "version": "Verze aplikace:",
+    "serial_number": "Seriové číslo terminálu:"
+  }
+}

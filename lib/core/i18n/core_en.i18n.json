@@ -1,0 +1,38 @@
+{
+  "errors": {
+    "unexpected_error": "An unexpected error occurred",
+    "error": "ERROR",
+    "server": {
+      "connection": "@: core.errors.error: Unable to communicate with server",
+      "bad_request": "@: core.errors.error: An invalid request was sent to the server",
+      "internal_error": "@: core.errors.error: An unexpected server error occurred",
+      "not_found": "@: core.errors.error: Item not found",
+      "permission_denied": "@: core.errors.error: You have sufficient rights",
+      "unauthorized": "@: core.errors.error: You are not logged in",
+      "unexpected": "@: core.errors.error: Server returned unexpected error"
+    }
+  },
+  "loading": "Processing ...",
+  "buttons": {
+    "agree": "Agree",
+    "go_back": "Go Back",
+    "back": "Back",
+    "menu": "Menu",
+    "finish": "Finish",
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close"
+  },
+  "alerts": {
+    "wrong_number_input": "Value must be a number"
+  },
+  "change_language": {
+    "title": "Choose language:",
+    "languages": {
+      "cs": "Czech",
+      "en": "English"
+    }
+  }
+}
